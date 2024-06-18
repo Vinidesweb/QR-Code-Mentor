@@ -1,0 +1,3 @@
+Este é um projeto utilizando HTML e CSS onde ele consiste em trazer uma leitura em QR Code informando o site Frontend Mentor. Levei em torno de 5 horas pra concluir o site apesar de ele ser simples, tive complicações em questão de organização, pois esse projeto ele me serve mais pra reforçar os meus conhecimentos e relembrar a pratica da programação.
+
+This is a project using HTML and CSS where it consists of providing a QR Code reading informing the Frontend Mentor website. It took me around 5 hours to complete the website, despite it being simple, I had complications in terms of organization, as this project serves me more to reinforce my knowledge and remember the practice of programming.
